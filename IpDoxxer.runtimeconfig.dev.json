@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\clogg\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\clogg\\.nuget\\packages"
+    ]
+  }
+}
